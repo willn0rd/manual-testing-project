@@ -1,2 +1,2 @@
 # manual-testing-project
-Project of web testing
+Testing done on wikipedia
