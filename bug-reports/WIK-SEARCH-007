@@ -1,0 +1,11 @@
+Steps:
+1. Open Wikipedia, the free encyclopedia 
+2. Spam Enter key in search bar
+
+Expected:
+System should prompt user to enter input
+
+Actual:
+Search results page is displayed
+
+Severity: Low
