@@ -17,6 +17,6 @@ Testing search functionality on the Wikipedia homepage.
 - Screenshots
 
 ## Tools Used
-- Excel (test cases)
-- Markdown documentation
+- Excel
+- Jira
 - GitHub repository
